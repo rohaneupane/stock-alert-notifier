@@ -5,10 +5,10 @@ import random
 from twilio.rest import Client
 
 
-STOCK_DATA_API = "JATYXPBB3VXWUV3M"
-NEWS_DATA_API = "9c5bdc74276d45a082f193dc425196cd"
-account_sid = 'AC30664fa8a8dffe50100aca36d74ea3e2'
-auth_token = '46acd0916d3affdf38c394b6d11cc08a'
+STOCK_DATA_API = "API_KEY"
+NEWS_DATA_API = "API_KEY"
+account_sid = 'ACCOUNT_SID'
+auth_token = 'AUTH_TOKEN'
 stock_high = "📈"
 stock_low = "📉"
 day = dt.datetime.today()
